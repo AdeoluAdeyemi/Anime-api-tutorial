@@ -10,7 +10,7 @@ h1_heading.textContent = 'Anime Quotes'
 // const logo = document.createElement('img')
 // logo.src = 'assets/img/logo.png'
 
-//Crate a div element, and set the class to container
+//Create a div element, and set the class to container
 const container = document.createElement('div')
 container.setAttribute('class','container')
 
